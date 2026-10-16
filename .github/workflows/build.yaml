@@ -1,0 +1,35 @@
+name: Update profile card
+
+on:
+  schedule:
+    - cron: "17 0 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [generate.py, ascii.txt]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build SVGs
+        env:
+          # Optional: a classic PAT (read:user, repo) saved as ACCESS_TOKEN
+          # also counts private repos/commits. Falls back to GITHUB_TOKEN.
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg stats.json
+          git diff --cached --quiet || git commit -m "chore: update profile stats"
+          git push

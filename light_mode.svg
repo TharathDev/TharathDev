@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1129px" height="600px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.dots {fill: #c2cfde;}
+.text {fill: #24292f;}
+.art {fill: #24292f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1129px" height="600px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" class="art">
+<tspan x="15" y="30"></tspan>
+<tspan x="15" y="50">                    :II:,,^^:li&gt;!;,</tspan>
+<tspan x="15" y="70">                 l~-~I^.......`IIIIlI;:</tspan>
+<tspan x="15" y="90">               &lt;??]_,...&#x27;`,I!!^....``,:;^</tspan>
+<tspan x="15" y="110">             &lt;??---,.^_|vUOphbOc{;..&#x27;&#x27;,^^`</tspan>
+<tspan x="15" y="130">            1}~I:I,,ijJp#&amp;%@$$%WdY?&#x27;.^^^.&#x27;</tspan>
+<tspan x="15" y="150">           &lt;{&lt;^.&#x27;`^ltQa%$@$$@@B8owQ[.`^...&#x27;</tspan>
+<tspan x="15" y="170">          !?:&#x27;&#x27;,&#x27;.`)Qk*#8$$$$$%M#b0zI.....I</tspan>
+<tspan x="15" y="190">           -~I`^`(hMko*odp*MamOLJCCv?.....l</tspan>
+<tspan x="15" y="210">           :~,,(CW8hquCQpQhbxwopmabzx!....,</tspan>
+<tspan x="15" y="230">           )j!_*$*MopUQwwZ@%nJCx(u|uX1...&#x27;</tspan>
+<tspan x="15" y="250">          Uk@mc$@%%B&amp;&amp;8%B$$$dJdwqwmOLc^i:</tspan>
+<tspan x="15" y="270">          vMBkh@$$$@@B&amp;%##8kwwmoa##oqctZ1</tspan>
+<tspan x="15" y="290">           M@B$@$$$$$@$@h*hOuZa8$B#pCnpb-</tspan>
+<tspan x="15" y="310">           [hhp$$$$$$%8#*hqbqqh*MaZQJmMC</tspan>
+<tspan x="15" y="330">               *$$$$8hbkbm0XncQmbm0LxQJ</tspan>
+<tspan x="15" y="350">               QWW@@@$$$*ZO0LZmZmOQ}</tspan>
+<tspan x="15" y="370">               qBkaW$$$$B&amp;*dpqOLJJ-</tspan>
+<tspan x="15" y="390">              !M$8oddoMoahbpqOYcUj</tspan>
+<tspan x="15" y="410">            }|[@$$$%*kZUcvvczzYCZ&lt;</tspan>
+<tspan x="15" y="430">         )xQb+X$@@$$$@B8k0CJCQmpCi</tspan>
+<tspan x="15" y="450"> {{tuYn)JQC0X~U$@$$$$@@8hZ00mdkb)&lt;|}+&lt;&gt;</tspan>
+<tspan x="15" y="470">YCvnzX+-jruXv)nW$$$$$$$&amp;bwmphabuI&lt;]}{i!{{]]}</tspan>
+<tspan x="15" y="490">{1[-uu[1(xvcu(ChW&amp;@$@B&amp;*hdbadmL}-}1[-~^:{11vCrt))+</tspan>
+<tspan x="15" y="510">+[+}ur]IfxxzX|z*&amp;##@%M*ahahdkqYfr_+[-_^^{]&lt;}tf(jc(t}</tspan>
+<tspan x="15" y="530">&lt;~-1u[,-vnxt_:}a%$@@@BBBBBB8k0Y(!..i-_^`?1)1{f)|[11jj&lt;</tspan>
+<tspan x="15" y="550">?&lt;-)t&gt;!)}ii,.,itm%@$$$$$$$Wmmu~&gt;`,,&#x27;l&lt;,`-|)[(ff1?})|)j</tspan>
+<tspan x="15" y="570">1~?t]i[)?-)&gt;;}]]Uh@$$$$$$#Ok0_~&gt;I+&lt;l-~&gt;&gt;11[1ftj}-)ttjj</tspan>
+</text>
+<text x="565" y="30" class="text">
+<tspan x="565" y="30"><tspan class="key">tharath@dev</tspan><tspan class="text"> ————————————————————————————————————————————</tspan></tspan>
+<tspan x="565" y="50"><tspan class="dots">. </tspan><tspan class="key">OS:</tspan><tspan class="dots"> ................................ </tspan><tspan class="value">macOS, Linux, iOS</tspan></tspan>
+<tspan x="565" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime:</tspan><tspan class="dots"> ................... </tspan><tspan class="value">4 years, 4 months, 21 days</tspan></tspan>
+<tspan x="565" y="90"><tspan class="dots">. </tspan><tspan class="key">Host:</tspan><tspan class="dots"> ........... </tspan><tspan class="value">Full Stack Developer &amp; ML Researcher</tspan></tspan>
+<tspan x="565" y="110"><tspan class="dots">. </tspan><tspan class="key">Kernel:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">Computer Vision / AI</tspan></tspan>
+<tspan x="565" y="130"><tspan class="dots">. </tspan><tspan class="key">IDE:</tspan><tspan class="dots"> .................................. </tspan><tspan class="value">VS Code, Xcode</tspan></tspan>
+<tspan x="565" y="170"><tspan class="key">Education</tspan><tspan class="text"> ——————————————————————————————————————————————</tspan></tspan>
+<tspan x="565" y="190"><tspan class="dots">. </tspan><tspan class="key">Degree.Master:</tspan><tspan class="dots"> .... </tspan><tspan class="value">Chongqing University of Technology</tspan></tspan>
+<tspan x="565" y="210"><tspan class="dots">. </tspan><tspan class="key">Degree.Engineer:</tspan><tspan class="dots"> . </tspan><tspan class="value">Institute of Technology of Cambodia</tspan></tspan>
+<tspan x="565" y="250"><tspan class="dots">. </tspan><tspan class="key">Research.Fields:</tspan><tspan class="dots"> ... </tspan><tspan class="value">Machine Learning, Computer Vision</tspan></tspan>
+<tspan x="565" y="270"><tspan class="dots">. </tspan><tspan class="key">Research.Topics:</tspan><tspan class="dots"> ... </tspan><tspan class="value">AI, Transformer Models, 3D Models</tspan></tspan>
+<tspan x="565" y="310"><tspan class="dots">. </tspan><tspan class="key">Languages:</tspan><tspan class="dots"> .... </tspan><tspan class="value">Python, TypeScript, JavaScript, Go, C#</tspan></tspan>
+<tspan x="565" y="330"><tspan class="dots">. </tspan><tspan class="key">Dev.Backend:</tspan><tspan class="dots"> .... </tspan><tspan class="value">FastAPI, Flask, .NET, Golang, NestJS</tspan></tspan>
+<tspan x="565" y="350"><tspan class="dots">. </tspan><tspan class="key">Dev.Frontend:</tspan><tspan class="dots"> .......... </tspan><tspan class="value">Vue, React, Laravel, HTML/CSS</tspan></tspan>
+<tspan x="565" y="370"><tspan class="dots">. </tspan><tspan class="key">Dev.Architecture:</tspan><tspan class="dots"> ........... </tspan><tspan class="value">Microservices, REST APIs</tspan></tspan>
+<tspan x="565" y="410"><tspan class="key">Contact</tspan><tspan class="text"> ————————————————————————————————————————————————</tspan></tspan>
+<tspan x="565" y="430"><tspan class="dots">. </tspan><tspan class="key">Email:</tspan><tspan class="dots"> ......................... </tspan><tspan class="value">tharath.dev@gmail.com</tspan></tspan>
+<tspan x="565" y="450"><tspan class="dots">. </tspan><tspan class="key">LinkedIn:</tspan><tspan class="dots"> ................ </tspan><tspan class="value">linkedin.com/in/tharath-tho</tspan></tspan>
+<tspan x="565" y="470"><tspan class="dots">. </tspan><tspan class="key">Telegram:</tspan><tspan class="dots"> ............................ </tspan><tspan class="value">t.me/TharathTHO</tspan></tspan>
+<tspan x="565" y="510"><tspan class="key">GitHub Stats</tspan><tspan class="text"> ———————————————————————————————————————————</tspan></tspan>
+<tspan x="565" y="530"><tspan class="dots">. </tspan><tspan class="key">Repos:</tspan><tspan class="dots"> ....... </tspan><tspan class="value">34 {Contributed: 0}</tspan><tspan class="text"> | </tspan><tspan class="key">Stars:</tspan><tspan class="dots"> ........ </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="565" y="550"><tspan class="dots">. </tspan><tspan class="key">Commits:</tspan><tspan class="dots"> ....................... </tspan><tspan class="value">0</tspan><tspan class="text"> | </tspan><tspan class="key">Followers:</tspan><tspan class="dots"> .... </tspan><tspan class="value">2</tspan></tspan>
+<tspan x="565" y="570"><tspan class="dots">. </tspan><tspan class="key">Contributions:</tspan><tspan class="dots"> .......................... </tspan><tspan class="value">0 (all time)</tspan></tspan>
+</text>
+</svg>
