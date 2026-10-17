@@ -35,6 +35,7 @@ SECTIONS = [
     [
         ("Research.Fields", "Machine Learning, Computer Vision"),
         ("Research.Topics", "AI, Transformer Models, 3D Models"),
+        ("Research.Paper", "doi.org/10.1117/12.3067282"),
     ],
     [
         ("Languages", "Python, TypeScript, JavaScript, Go, C#"),
