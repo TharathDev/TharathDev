@@ -1,7 +1,7 @@
 <a href="https://github.com/TharathDev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img alt="Tho Tharath's GitHub profile README: neofetch-style card" src="light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TharathDev/TharathDev/main/dark_mode.svg">
+    <img alt="Tho Tharath's GitHub profile README: neofetch-style card" src="https://raw.githubusercontent.com/TharathDev/TharathDev/main/light_mode.svg">
   </picture>
 </a>
 
